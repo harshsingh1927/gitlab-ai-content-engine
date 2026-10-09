@@ -1005,7 +1005,7 @@ This project was developed collaboratively by:
 | Contributor | Role / Contribution |
 |---|---|
 | Jayati Nilekar | AI & Retrieval |
-| Harsh Singh | Backend & API, Job Intake,  Markdown formatting and Model upgradation |
+| Harsh Singh |AI workflow refinement, Backend & API, Job Intake,  Markdown formatting and Model research & upgradation |
 | Dhamodhar Thiyagarajan | Frontend & Backend — Firebase Auth, Auth Endpoints, Supabase DB & Backend Integration |
 | Harsh Raj | Deployment & Database  |
 | Vidya Lamkhade | QA & Testing — Pipeline Validation, Mock AI, API Testing |
